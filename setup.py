@@ -17,7 +17,7 @@ setup(
         'gradio==3.50.2',
         'openai==0.28.0',
         'anthropic==0.5.0',
-        'sentencepiece==0.1.99',
+        'sentencepiece==0.2.1',
         'protobuf==3.19.0',
         'wandb'
     ],
