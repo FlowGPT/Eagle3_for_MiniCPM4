@@ -18,7 +18,7 @@ setup(
         'openai==0.28.0',
         'anthropic==0.5.0',
         'sentencepiece==0.1.99',
-        'protobuf==3.19.0',
+        'protobuf==5.29.6',
         'wandb'
     ],
     classifiers=[
