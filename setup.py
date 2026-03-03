@@ -14,7 +14,7 @@ setup(
         'transformers==4.46.2',
         'accelerate==0.21.0',
         'fschat==0.2.31',
-        'gradio==3.50.2',
+        'gradio==6.7.0',
         'openai==0.28.0',
         'anthropic==0.5.0',
         'sentencepiece==0.1.99',
